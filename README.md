@@ -215,6 +215,9 @@ update this line if necessary.
 
 ## Visualisations
 
+### Live demonstration
+https://smart-fake-news-detection.streamlit.app/
+
 ### Class distribution
 
 ![Label distribution](outputs/visualizations/label_distribution.png)
